@@ -2,7 +2,6 @@ import 'package:alt_ed_app/constant/constants.dart';
 import 'package:alt_ed_app/widgets/button_with_text_and_back_arrow_icon.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-
 import 'card_with_code_and_button.dart';
 
 class ColumnWithBackArrowIconButton extends StatelessWidget {
